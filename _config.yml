@@ -1,4 +1,3 @@
-layout_spectrum: 0.18564999685622752
 typography_spectrum: 0.16169484332203865
 color:
   brandStrength: 0.17986937169916928
@@ -11,4 +10,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.18564999685622752
+author:
+  name: Eivind Engedal
+  email: eivindengedal@gmail.com
 name: Eivind Engedal
+title: 'music, synth, synthesizer, guitar'
