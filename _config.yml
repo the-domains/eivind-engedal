@@ -1,16 +1,16 @@
-typography_spectrum: 0.16169484332203865
+typography_spectrum: 0.8772130711004138
 color:
-  brandStrength: 0.17986937169916928
-  lightness: 0.8363844698760659
-  saturation: 0.980961698340252
-  rhythmicContrast: 0.885369768133387
+  brandStrength: 0.3651106401812285
+  lightness: 0.9410744288470596
+  saturation: 0.6025708892848343
+  rhythmicContrast: 0.5884260509628803
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.18564999685622752
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.8116405010223389
 author:
   name: Eivind Engedal
   email: eivindengedal@gmail.com
